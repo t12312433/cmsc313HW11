@@ -8,6 +8,8 @@ Then "make run" to run the program
 
 ![image](https://github.com/user-attachments/assets/7116c063-a81a-4571-805b-977d7af99f6b)
 
+If there's any issues run "make clean" prior to compiling and linking
+
 # Description of Output
 This program will output the ascii conversion of the 
 
